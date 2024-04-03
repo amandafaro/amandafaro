@@ -27,16 +27,6 @@
   <a href="linkedin.com/in/amandafaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
-## Contacts: 
-
-#### <code> E-mail: amanda@agencia23.com.br </code> 
-#### <code> Linkedin: <a href="https://linkedin.com/in/amandafaro/"> Amanda Faro</a> </code>
-#### <code> GitHub: <a href="https://github.com/amandafaro"> github.com/amandafaro </a> </code>
-
-##
-
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoel" alt="argentinaluiz" /> </p -->
 <!---
 Amanda Faro/Amanda Faro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
