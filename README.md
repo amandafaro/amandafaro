@@ -1,4 +1,4 @@
-## Manoel Rodrigues 🐘 
+## Amanda Faro 👩🏻‍💻☕ 
 
 - 👋 Hi, I’m @Amanda Faro
 - 👀 I’m interested in marketing and data analytics
